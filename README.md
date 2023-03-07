@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Auvu
-- 👀 I’m interested in creating stuff learning C++, C#, (maybe even C), Python, JavaScript, R, Rust..
-- 🌱 I’m currently learning JavaScript and C++ (perfect combo ikr)
-- 💞️ I’m looking to collaborate on currently some ROBLOX projects. Rojo of course :)
-- 📫 How to reach me: Dm me. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=auvu&theme=dark&show_icons=true&theme=synthwave" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auvu&layout=compact&theme=synthwave" alt="top-langs" />
+</p>
 
-<!---
-Auvu/Auvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/auvu/count.svg" />
+</p>
